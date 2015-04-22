@@ -1,2 +1,2 @@
 # CoreDataWithTableViewController
-TableViewController with Core Data integration
+Core Data with UITableViewController integration
