@@ -13,7 +13,7 @@
 @property (nonatomic) BOOL beganUpdates;
 @end
 
-@implementation AGTCoreDataTableViewController
+@implementation TGRCoreDataTableViewController
 
 
 -(id) initWithFetchedResultsController: (NSFetchedResultsController *) aFetchedResultsController
